@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Naruto107.github.io/portfolio",
+  
   "name": "react-portfolio",
   
   "private": true,
@@ -10,11 +10,7 @@
   
   "scripts": {
   
-    
-  "predeploy": "npm run build",
-  
-    
-  "deploy": "gh-pages -d dist",
+ 
   
     
   "dev": "vite",
