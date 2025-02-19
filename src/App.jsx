@@ -2,9 +2,9 @@ import Hero from "./components/Hero"
 import Navbar from "./components/Navbar";
 import Contact from "./components/Contact"
 import Footer from "./components/Footer";
-import About from "./components/about"
-import Technologies from "./components/technologies";
-import Experience from "./components/experience";
+import About from "./components/About"
+import Technologies from "./components/Technologies";
+import Experience from "./components/Experience";
 import Projects from "./components/projects"
 import Resume from "./components/resume"
 
